@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Github统计【Github Stats】
 <a href="https://github.com/youthlql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youthlql&show_icons=true&line_height=27&count_private=true&title_color=9999FF&text_color=2bbc8a&icon_color=9999FF&bg_color=1d1f21" alt="youthlql's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youthlql&show_icons=true&line_height=27&count_private=true&title_color=#0099CC&text_color=2bbc8a&icon_color=9999FF&bg_color=1d1f21" alt="youthlql's GitHub Stats" />
 
 
 ## 个人项目【Personal Project】
 <a href="https://github.com/youthlql/JavaYouth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youthlql&show_icons=true&repo=JavaYouth&title_color=9999FF&text_color=2bbc8a&icon_color=9999FF&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youthlql&show_icons=true&repo=JavaYouth&title_color=#0099CC&text_color=2bbc8a&icon_color=#0099CC&bg_color=1d1f21" />

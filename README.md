@@ -4,31 +4,31 @@
     <tr>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="./img/java.svg" width="48" height="48" alt="Java" />
+          <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/java.svg" width="64" height="64" alt="Java" />
         </a>
         <br>Java
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="./img/mysql.png" width="48" height="48" alt="Mysql" />
+          <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/mysql.png" width="64" height="64" alt="Mysql" />
         </a>
         <br>Mysql
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="./img/spring.png" width="48" height="48" alt="Spring" />
+          <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/spring.png" width="64" height="64" alt="Spring" />
         </a>
         <br>Spring
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="./img/springboot.png" width="48" height="48" alt="SpringBoot" />
+          <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/springboot.png" width="64" height="64" alt="SpringBoot" />
         </a>
         <br>SpringBoot
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="./img/springcloud.png" width="48" height="48" alt="SpringCloudAlibaba" />
+          <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/springcloud.png" width="64" height="64" alt="SpringCloudAlibaba" />
         </a>
         <br>Cloud
       </td>
@@ -36,27 +36,27 @@
     <tr>
         <td align="center" width="96">
             <a href="#macropower-tech">
-              <img src="./img/redis.png" width="48" height="48" alt="redis" />
+              <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/redis.png" width="64" height="64" alt="redis" />
             </a>
             <br>redis
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
-              <img src="./img/rocketmq.png" width="48" height="48" alt="redis" />
+              <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/rocketmq.png" width="64" height="64" alt="RocketMQ" />
             </a>
             <br>RocketMQ
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
-              <img src="./img/es.jpg" width="48" height="48" alt="redis" />
+              <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/es.jpg" width="64" height="64" alt="Elasticsearch" />
             </a>
-            <br>RocketMQ
+            <br>Elasticsearch
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
-              <img src="./img/dubbo.png" width="48" height="48" alt="redis" />
+              <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/dubbo.png" width="64" height="64" alt="Dubbo" />
             </a>
-            <br>RocketMQ
+            <br>Dubbo
         </td>
     </tr>
   </table>

@@ -6,8 +6,6 @@
 
 CSDN：https://blog.csdn.net/Youth_lql
 
-博客园：https://www.cnblogs.com/youthlql/
-
 Gitee：https://gitee.com/youthlql
 
 ### 技术栈【Technology Stack】

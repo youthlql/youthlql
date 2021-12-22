@@ -6,8 +6,6 @@
 
 CSDN：https://blog.csdn.net/Youth_lql
 
-博客园：https://www.cnblogs.com/youthlql/
-
 Gitee：https://gitee.com/youthlql
 
 ### 技术栈【Technology Stack】
@@ -16,31 +14,31 @@ Gitee：https://gitee.com/youthlql
     <tr>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/java.svg" width="64" height="64" alt="Java" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/java.svg" width="64" height="64" alt="Java" />
             </a>
             <br>Java
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/mysql.png" width="64" height="64" alt="Mysql" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/mysql.png" width="64" height="64" alt="Mysql" />
             </a>
             <br>Mysql
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/spring.png" width="64" height="64" alt="Spring" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/spring.png" width="64" height="64" alt="Spring" />
             </a>
             <br>Spring
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/springboot.png" width="64" height="64" alt="SpringBoot" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/springboot.png" width="64" height="64" alt="SpringBoot" />
             </a>
             <br>SpringBoot
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/springcloud.png" width="64" height="64" alt="SpringCloudAlibaba"
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/springcloud.png" width="64" height="64" alt="SpringCloudAlibaba"
                 />
             </a>
             <br>Cloud
@@ -49,25 +47,25 @@ Gitee：https://gitee.com/youthlql
     <tr>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/redis.png" width="64" height="64" alt="redis" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/redis.png" width="64" height="64" alt="redis" />
             </a>
             <br>redis
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/rocketmq.png" width="64" height="64" alt="RocketMQ" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/rocketmq.png" width="64" height="64" alt="RocketMQ" />
             </a>
             <br>RocketMQ
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/es.jpg" width="64" height="64" alt="Elasticsearch" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/es.jpg" width="64" height="64" alt="Elasticsearch" />
             </a>
             <br>Elasticsearch
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://gitee.com/youthlql/randombg/raw/master/logo/dubbo.png" width="64" height="64" alt="Dubbo" />
+                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/dubbo.png" width="64" height="64" alt="Dubbo" />
             </a>
             <br>Dubbo
         </td>

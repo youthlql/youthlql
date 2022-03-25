@@ -14,31 +14,31 @@ Gitee：https://gitee.com/youthlql
     <tr>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/java.svg" width="64" height="64" alt="Java" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/java.png" width="64" height="64" alt="Java" />
             </a>
             <br>Java
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/mysql.png" width="64" height="64" alt="Mysql" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/mysql.png" width="64" height="64" alt="Mysql" />
             </a>
             <br>Mysql
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/spring.png" width="64" height="64" alt="Spring" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/spring.png" width="64" height="64" alt="Spring" />
             </a>
             <br>Spring
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/springboot.png" width="64" height="64" alt="SpringBoot" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/springboot.png" width="64" height="64" alt="SpringBoot" />
             </a>
             <br>SpringBoot
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/springcloud.png" width="64" height="64" alt="SpringCloudAlibaba"
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/springcloud.png" width="64" height="64" alt="SpringCloudAlibaba"
                 />
             </a>
             <br>Cloud
@@ -47,31 +47,44 @@ Gitee：https://gitee.com/youthlql
     <tr>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/redis.png" width="64" height="64" alt="redis" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/redis.png" width="64" height="64" alt="redis" />
             </a>
             <br>redis
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/rocketmq.png" width="64" height="64" alt="RocketMQ" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/rocketmq.png" width="64" height="64" alt="RocketMQ" />
             </a>
             <br>RocketMQ
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/es.jpg" width="64" height="64" alt="Elasticsearch" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/es.jpg" width="64" height="64" alt="Elasticsearch" />
             </a>
             <br>Elasticsearch
         </td>
         <td align="center" width="96">
             <a href="https://github.com/youthlql">
-                <img src="https://cdn.jsdelivr.net/gh/youthlql/youthlql/img/dubbo.png" width="64" height="64" alt="Dubbo" />
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/dubbo.png" width="64" height="64" alt="Dubbo" />
             </a>
             <br>Dubbo
         </td>
+                <td align="center" width="96">
+            <a href="https://github.com/youthlql">
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/scala.png" width="64" height="64" alt="Scala" />
+            </a>
+            <br>Scala
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://github.com/youthlql">
+                <img src="https://npm.elemecdn.com/lql_static@latest/logo/spark.png" width="64" height="64" alt="Spark" />
+            </a>
+            <br>Spark
+        </td>
     </tr>
 </table>
-
 
 
 
